@@ -17,6 +17,7 @@ This build is for Catalina 10.15.0 to 10.15.7 using Opencore 0.6.0.
 * Keyboard
 * Trackpad
 * USB (plug in drive b4 boot and then you can access)
+* Power management (except sleep)
 
 ## What's not working
 
@@ -25,7 +26,7 @@ This build is for Catalina 10.15.0 to 10.15.7 using Opencore 0.6.0.
 * Backlight
 * Audio - Built in and HDMI
 * All USB ports including USB-C during session
-* Power management including sleep
+* Sleep
 * Touchscreen
 * SD Card Reader
 * HDMI Port
