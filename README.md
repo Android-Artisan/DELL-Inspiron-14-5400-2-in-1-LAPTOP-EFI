@@ -4,18 +4,19 @@ Opencore hackintosh of a Dell 14 5400 2-in-1 notebook
 
 ## Dell Specs:
 
-* 10th Generation Intel® Core™ i3-1005G1 Processor (Ice Lake)
-* Windows 10 Home 64bit English
-* 4GB,1x4GB,DDR4,3200MHz
-* 256GB M.2 PCIe NVMe Solid State Drive
+* 10th Generation Intel® Core™ i5-1005G1 Processor (Ice Lake)
+* Ubuntu 24.02
+* 12GB,2x8GB,DDR4,3200MHz
+* 2TB M.2 PCIe NVMe Solid State Drive
 
-This build is for Catalina 10.15.4 using Opencore 0.6.0.
+This build is for Catalina 10.15.0 to 10.15.7 using Opencore 0.6.0.
 
 ## What's working
 
-* WiFi and Bluetooth (replaced with Fenvi BCM94352Z, it worked out of the box as advertised on Taobao)
+* Ethernet using adapter
 * Keyboard
 * Trackpad
+* USB (plug in drive b4 boot and then you can access)
 
 ## What's not working
 
@@ -23,7 +24,7 @@ This build is for Catalina 10.15.4 using Opencore 0.6.0.
 * Fn keys to control display backlight
 * Backlight
 * Audio - Built in and HDMI
-* All USB ports including USB-C
+* All USB ports including USB-C during session
 * Power management including sleep
 * Touchscreen
 * SD Card Reader
