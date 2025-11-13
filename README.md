@@ -23,14 +23,13 @@ This build is for Catalina 10.15.0 to 10.15.7 using Opencore 0.6.0.
 
 * Integrated RealTek webcam
 * Fn keys to control display backlight
-* Backlight
+* Display backlight and brightness 
 * Audio - Built in and HDMI
 * All USB ports including USB-C during session
 * Sleep
 * Touchscreen
 * SD Card Reader
 * HDMI Port
-* Fn keys to control volume and keyboard backlight
 
 
 ## Credits
