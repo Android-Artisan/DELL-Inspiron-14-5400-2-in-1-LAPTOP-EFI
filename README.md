@@ -18,10 +18,10 @@ This build is for Catalina 10.15.0 to 10.15.7 using Opencore 0.6.0.
 * Trackpad
 * USB (plug in drive b4 boot and then you can access)
 * Power management (except sleep)
+* Integrated RealTek webcam
 
 ## What's not working
 
-* Integrated RealTek webcam
 * Fn keys to control display backlight
 * Display backlight and brightness 
 * Audio - Built in and HDMI
