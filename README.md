@@ -4,7 +4,8 @@ Opencore hackintosh of a Dell 14 5400 2-in-1 notebook
 
 ## Dell Specs:
 
-* 10th Generation Intel® Core™ i5-1005G1 Processor (Ice Lake)
+* 10th Generation Intel Core
+i5-1035G1 (Ice Lake)
 * Ubuntu 24.02
 * 12GB,2x8GB,DDR4,3200MHz
 * 2TB M.2 PCIe NVMe Solid State Drive
