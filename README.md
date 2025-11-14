@@ -23,6 +23,7 @@ This build is for Catalina 10.15.0 to 10.15.7 using Opencore 0.6.0.
 ## What's not working
 
 * Fn keys to control display backlight
+* Wifi and bluetooth
 * Display backlight and brightness 
 * Audio - Built in and HDMI
 * All USB ports including USB-C during session
