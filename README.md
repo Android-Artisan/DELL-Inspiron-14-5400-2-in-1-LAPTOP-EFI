@@ -10,30 +10,31 @@ i5-1035G1 (Ice Lake)
 * 12GB,2x8GB,DDR4,3200MHz
 * 2TB M.2 PCIe NVMe Solid State Drive
 
-This build is for Catalina 10.15.0 to 10.15.7 using Opencore 0.6.0.
+This build is for Catalina 10.15.0 to 10.15.7 using OpenCore 1.0.6.
 
 ## What's working
 
-* Ethernet using adapter
+* Ethernet
+* GPU Acceleration
 * Keyboard
 * Trackpad
-* USB (plug in drive b4 boot and then you can access)
-* Power management (except sleep)
+* All USB Ports
+* Power management
+* Sleep
 * Integrated RealTek webcam
+* Display backlight and brightness 
+* Fn keys to control display backlight
 
 ## What's not working
 
-* Fn keys to control display backlight
 * Wifi and bluetooth
-* Display backlight and brightness 
 * Audio - Built in and HDMI
-* All USB ports including USB-C during session
-* Sleep
 * Touchscreen
 * SD Card Reader
 * HDMI Port
 
 
 ## Credits
+
 * [acidanthera](https://github.com/acidanthera) for [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 * The Dortania crew for their [documentation](https://dortania.github.io/)
