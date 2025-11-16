@@ -7,7 +7,7 @@ OpenCore Hackintosh configuration for the Dell Inspiron 14 5400 2-in-1.
 |----------|---------|
 | Model | Dell Inspiron 14 5400 2-in-1 |
 | CPU | Intel Core i5-1035G1 (10th-gen Ice Lake) |
-| OS Used During EFI Creation | Ubuntu 24.02 |
+| OS Used During EFI Creation | Windows 11 |
 | Memory | 12 GB (2 × 8 GB) DDR4 3200 MHz |
 | Storage | 2 TB M.2 PCIe NVMe SSD |
 | macOS Version Supported | Catalina 10.15.0–10.15.7 |
