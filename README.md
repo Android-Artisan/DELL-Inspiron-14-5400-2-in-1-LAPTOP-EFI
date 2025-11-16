@@ -37,6 +37,7 @@ OpenCore Hackintosh configuration for the Dell Inspiron 14 5400 2-in-1.
 | HDMI Port | 🔴 Not Working |
 
 ## Credits
-
+- **YacineGTI** fir geting me into hackintoshes and helping me make my first EFI
+- **MacVerse** for helping me fix issues on my EFI
 - **acidanthera** for OpenCore and related projects  
 - **Dortania** for their detailed Hackintosh documentation  
