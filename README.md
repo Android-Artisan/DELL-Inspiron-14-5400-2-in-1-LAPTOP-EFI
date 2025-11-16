@@ -1,40 +1,42 @@
-# DELL Inspiron 14 5400 2-in-1 laptop EFI
+# DELL Inspiron 14 5400 2-in-1 Laptop EFI
+OpenCore Hackintosh configuration for the Dell Inspiron 14 5400 2-in-1.
 
-Opencore hackintosh of a Dell 14 5400 2-in-1 notebook
+## System Specifications
 
-## Dell Specs:
+| Component | Details |
+|----------|---------|
+| Model | Dell Inspiron 14 5400 2-in-1 |
+| CPU | Intel Core i5-1035G1 (10th-gen Ice Lake) |
+| OS Used During EFI Creation | Ubuntu 24.02 |
+| Memory | 12 GB (2 × 8 GB) DDR4 3200 MHz |
+| Storage | 2 TB M.2 PCIe NVMe SSD |
+| macOS Version Supported | Catalina 10.15.0–10.15.7 |
+| OpenCore Version | 1.0.6 |
 
-* 10th Generation Intel Core
-i5-1035G1 (Ice Lake)
-* Ubuntu 24.02
-* 12GB,2x8GB,DDR4,3200MHz
-* 2TB M.2 PCIe NVMe Solid State Drive
+## Compatibility
 
-This build is for Catalina 10.15.0 to 10.15.7 using OpenCore 1.0.6.
-
-## What's working
-
-* Ethernet
-* GPU Acceleration
-* Keyboard
-* Trackpad
-* All USB Ports
-* Power management
-* Sleep
-* Integrated RealTek webcam
-* Display backlight and brightness 
-* Fn keys to control display backlight
-
-## What's not working
-
-* Wifi and bluetooth
-* Audio - Built in and HDMI
-* Touchscreen
-* SD Card Reader
-* HDMI Port
-
+| Feature | Status |
+|--------|--------|
+| Ethernet | 🟢 Working |
+| Wi-Fi | 🟢 Working |
+| Speakers | 🟢 Working |
+| GPU Acceleration | 🟢 Working |
+| Keyboard | 🟢 Working |
+| Trackpad | 🟢 Working |
+| USB Ports | 🟢 Working |
+| Power Management | 🟢 Working |
+| Sleep/Wake | 🟢 Working |
+| Integrated Realtek Webcam | 🟢 Working |
+| Backlight & Brightness Control | 🟢 Working |
+| Fn Keys (Brightness/Volume) | 🟢 Working |
+| Bluetooth | 🔴 Not Working |
+| HDMI Audio | 🔴 Not Working |
+| Touchscreen | 🔴 Not Working |
+| SD Card Reader | 🔴 Not Working |
+| Microphone | 🔴 Not Working |
+| HDMI Port | 🔴 Not Working |
 
 ## Credits
 
-* [acidanthera](https://github.com/acidanthera) for [OpenCore](https://github.com/acidanthera/OpenCorePkg)
-* The Dortania crew for their [documentation](https://dortania.github.io/)
+- **acidanthera** for OpenCore and related projects  
+- **Dortania** for their detailed Hackintosh documentation  
