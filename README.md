@@ -10,7 +10,7 @@ This EFI is **optimized and stable for macOS Monterey**, boots successfully **up
 |----------|---------|
 | Model | Dell Inspiron 14 5400 2-in-1 |
 | CPU | Intel Core i5-1035G1 (10th-gen Ice Lake) |
-| Memory | 12 GB (2 × 8 GB) DDR4 3200 MHz |
+| Memory | 16 GB (2 × 8 GB) DDR4 3200 MHz |
 | Storage | 2 TB M.2 PCIe NVMe SSD |
 | macOS Versions Supported | **macOS Sierra → macOS Ventura** |
 | Recommended / Stable Version | **macOS Monterey** |
